@@ -89,7 +89,7 @@ def estimate_turn(left, right):
 
 
 
-video_path = r"D:\videosamples\high.mp4"
+video_path = "Sample_video"  # your video path upload here 
 cap = cv2.VideoCapture(video_path)
 
 
